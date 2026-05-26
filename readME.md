@@ -1,7 +1,7 @@
 # OpenGL 3D Scene
 
 An interactive 3D scene built with OpenGL and GLUT featuring three objects, real-time controls, and dual projection modes.  
-**Lampros Patas | A.M. 2890**
+**Lampros Patas | **
 
 ## Compile & Run
 
