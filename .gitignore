@@ -1,0 +1,39 @@
+# Compiled binaries
+app
+app.exe
+*.o
+*.out
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+*.moved-aside
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+Debug/
+Release/
+x64/
+x86/
+
+# MinGW / GCC
+*.d
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Logs & temp
+*.log
+*.tmp
